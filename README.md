@@ -1,2 +1,2 @@
 # bayram
-☪️ A simple message generator for ramadan made with JavaScript, HTML, and CSS.
+☪️ A simple message generator for Ramadan made with JavaScript, HTML, and CSS.
