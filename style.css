@@ -1,0 +1,39 @@
+body {
+    color: #000;
+    font-family: 'Quicksand', sans-serif!important;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.stacked {
+    border: solid 2px #A834FF;
+    padding: 20px 30px 20px 30px;
+    box-shadow: 13px 13px 0 0 white, 15px 15px 0 0 #A834FF, 15px 11px 0 0 #A834FF, 11px 15px 0 0 #A834FF;
+}
+
+.stacked-btn {
+    font-weight: 500;
+    background: #fff;
+    border: solid 2px #A834FF;
+    padding: 10px 20px;
+    outline: none!important;
+    box-shadow: 10px 10px 0 0 white, 12px 12px 0 0 #A834FF, 12px 8px 0 0 #A834FF, 8px 12px 0 0 #A834FF;
+    transition: background-color 0.3s ease-in;
+    margin-top: 40px
+}
+
+.stacked-btn:hover {
+    background-color: #A834FF;
+    color: white;
+}
+
+.fixed-bottom {
+    font-weight: 500
+}
