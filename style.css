@@ -35,5 +35,6 @@ p {
 }
 
 .fixed-bottom {
+    margin-top: 40px;
     font-weight: 500
 }
