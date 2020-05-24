@@ -32,10 +32,6 @@ p {
     margin-bottom: 50px;
 }
 
-.buttons {
-    margin-bottom: 200px
-}
-
 .stacked-btn:hover {
     background-color: #A834FF;
     color: white;
