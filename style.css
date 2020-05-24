@@ -33,3 +33,8 @@ p {
     background-color: #A834FF;
     color: white;
 }
+
+footer {
+    font-weight: 500;
+    margin-top: 50px
+}
