@@ -29,7 +29,8 @@ p {
     outline: none!important;
     box-shadow: 10px 10px 0 0 white, 12px 12px 0 0 #A834FF, 12px 8px 0 0 #A834FF, 8px 12px 0 0 #A834FF;
     transition: background-color 0.3s ease-in;
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .buttons {
